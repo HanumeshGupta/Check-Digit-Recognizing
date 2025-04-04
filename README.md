@@ -24,7 +24,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/Digit-Recognizer.git
+   git clone [https://github.com/yourusername/Digit-Recognizer.git](https://github.com/HanumeshGupta/Check-Digit-Recognizing.git)
    cd Digit-Recognizer
    ```
 
